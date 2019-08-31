@@ -2,6 +2,7 @@ backend:
   name: github
   repo: calvintan/site
   branch: master # Branch to update (optional; defaults to master)
+  site_domain: wizardly-ardinghelli-2985a2.netlify.com
 media_folder: 'assets/uploads'
 collections:
   - name: "blog"
