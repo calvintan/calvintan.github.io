@@ -1,9 +1,9 @@
 items:
   - name: Home
-    link: /site/
+    link: /
   - name: About
-    link: /site/about.html
+    link: /about.html
   - name: Blog
-    link: /site/blog.html
+    link: /blog.html
   - name: Staff
-    link: /site/staff.html
+    link: /staff.html
