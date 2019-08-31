@@ -1,7 +1,7 @@
 {
   "license": "UNLICENSED",
   "scripts": {
-    "deploy": "gh-pages -d _site"
+    "deploy": "JEKYLL_ENV=production bundle exec jekyll build && gh-pages -d _site"
   },
   "dependencies": {},
   "devDependencies": {
