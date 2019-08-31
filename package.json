@@ -1,0 +1,10 @@
+{
+  "license": "UNLICENSED",
+  "scripts": {
+    "deploy": "gh-pages -d _site"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
