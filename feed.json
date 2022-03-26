@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Calvin&#x27;s Blog | Design, code, writing and more",
+    "description": "",
+    "home_page_url": "https://calvintan.github.io",
+    "feed_url": "https://calvintan.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Calvin"
+    },
+    "items": [
+        {
+            "id": "https://calvintan.github.io/the-first-commit.html",
+            "url": "https://calvintan.github.io/the-first-commit.html",
+            "title": "The &quot;first commit&quot;",
+            "summary": "Like all my coding projects, the first thing I would do is: start a Github repository, add all the base files and push the “first commit” to Github. This is my first commit to this blog, and it marks my “commit”ment to make writing a&hellip;",
+            "content_html": "<p>Like all my coding projects, the first thing I would do is: start a Github repository, add all the base files and push the “first commit” to Github.</p>\n<p>This is my first commit to this blog, and it marks my “commit”ment to make writing a habit. I’m not exactly sure what this blog will contain yet, but I’ll start penning down some thoughts and see how it grows from there.</p>\n<p>If you’re passing by, feel free to stop and say “hello”. Hopefully this space will be populated with more interesting articles soon! Till next time 👋</p>\n",
+            "author": {
+                "name": "Calvin"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-03-26T14:01:25+08:00",
+            "date_modified": "2022-03-26T14:01:25+08:00"
+        }
+    ]
+}
