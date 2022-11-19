@@ -1,21 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Calvin&#x27;s Blog | Design, code, writing and more</title>
+    <title>Calvin&#x27;s Blog</title>
     <link href="https://calvintan.github.io/feed.xml" rel="self" />
     <link href="https://calvintan.github.io" />
-    <updated>2022-03-26T14:01:25+08:00</updated>
+    <updated>2022-11-19T23:49:10+08:00</updated>
     <author>
         <name>Calvin</name>
     </author>
     <id>https://calvintan.github.io</id>
 
     <entry>
+        <title>5 ways to upskill as a designer</title>
+        <author>
+            <name>Calvin</name>
+        </author>
+        <link href="https://calvintan.github.io/5-ways-to-upskill-as-a-designer/"/>
+        <id>https://calvintan.github.io/5-ways-to-upskill-as-a-designer/</id>
+
+        <updated>2022-11-19T23:49:10+08:00</updated>
+            <summary>
+                <![CDATA[
+                    I recently received a question from my mentee on “how to get into a habit of upskilling as a designer”, and I shared 5 ideas on how to build a learning habit. I’m sure that when you work in a team, you may have been&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I recently received a question from my mentee on “how to get into a habit of upskilling as a designer”, and I shared 5 ideas on how to build a learning habit.</p>
+<h3 id="observe-what-others-are-doing-better-than-you">Observe what others are doing better than you</h3>
+<p>I’m sure that when you work in a team, you may have been impressed by something your teammate does. “He presented his ideas really well!” or “How does she design all these screens so quickly?”</p>
+<p>That gives you a hint as to the skill that you may want to improve on. For example, it could be about how to <strong>better articulate your ideas and design decisions</strong>, or to <strong>improve on your design workflow</strong>.</p>
+<p>Next, you can either:</p>
+<ol>
+<li>Have a chat with them, ask them for tips or advice</li>
+<li>Get together with your team or manager to organise learning sessions</li>
+<li>Do your own research, look up books or tutorials on the subject matter</li>
+</ol>
+<h3 id="ask-for-feedback-early">Ask for feedback early</h3>
+<p>Share drafts of your design work early, even if it’s rough.</p>
+<p>You might be thinking: “But it looks terrible! Won’t this reflect poorly on my design ability?” I feel that sharing your work early has the opposite effect. It makes you seem proactive, and that you are doing your due dilligence in finding the right solution.</p>
+<p>It also tests if you can explain your design decisions clearly to another team member,  helps to find any potential gaps in your thinking, and clarifies your understanding of the problem that you’re trying to solve.</p>
+<p>In short, doing this will help improve your skill in articulating your ideas, which is a crucial skillset for any designer.</p>
+<h3 id="set-goals">Set goals</h3>
+<p>Commit to a goal, and share it with your team.</p>
+<h3 id="work-on-a-side-project-that-youre-passionate-about">Work on a side project that you’re passionate about</h3>
+<h3 id="teach-others">Teach others</h3>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>The &quot;first commit&quot;</title>
         <author>
             <name>Calvin</name>
         </author>
-        <link href="https://calvintan.github.io/the-first-commit.html"/>
-        <id>https://calvintan.github.io/the-first-commit.html</id>
+        <link href="https://calvintan.github.io/the-first-commit/"/>
+        <id>https://calvintan.github.io/the-first-commit/</id>
 
         <updated>2022-03-26T14:01:25+08:00</updated>
             <summary>

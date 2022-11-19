@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Calvin&#x27;s Blog | Design, code, writing and more",
+    "title": "Calvin&#x27;s Blog",
     "description": "",
     "home_page_url": "https://calvintan.github.io",
     "feed_url": "https://calvintan.github.io/feed.json",
@@ -10,8 +10,22 @@
     },
     "items": [
         {
-            "id": "https://calvintan.github.io/the-first-commit.html",
-            "url": "https://calvintan.github.io/the-first-commit.html",
+            "id": "https://calvintan.github.io/5-ways-to-upskill-as-a-designer/",
+            "url": "https://calvintan.github.io/5-ways-to-upskill-as-a-designer/",
+            "title": "5 ways to upskill as a designer",
+            "summary": "I recently received a question from my mentee on “how to get into a habit of upskilling as a designer”, and I shared 5 ideas on how to build a learning habit. I’m sure that when you work in a team, you may have been&hellip;",
+            "content_html": "<p>I recently received a question from my mentee on “how to get into a habit of upskilling as a designer”, and I shared 5 ideas on how to build a learning habit.</p>\n<h3 id=\"observe-what-others-are-doing-better-than-you\">Observe what others are doing better than you</h3>\n<p>I’m sure that when you work in a team, you may have been impressed by something your teammate does. “He presented his ideas really well!” or “How does she design all these screens so quickly?”</p>\n<p>That gives you a hint as to the skill that you may want to improve on. For example, it could be about how to <strong>better articulate your ideas and design decisions</strong>, or to <strong>improve on your design workflow</strong>.</p>\n<p>Next, you can either:</p>\n<ol>\n<li>Have a chat with them, ask them for tips or advice</li>\n<li>Get together with your team or manager to organise learning sessions</li>\n<li>Do your own research, look up books or tutorials on the subject matter</li>\n</ol>\n<h3 id=\"ask-for-feedback-early\">Ask for feedback early</h3>\n<p>Share drafts of your design work early, even if it’s rough.</p>\n<p>You might be thinking: “But it looks terrible! Won’t this reflect poorly on my design ability?” I feel that sharing your work early has the opposite effect. It makes you seem proactive, and that you are doing your due dilligence in finding the right solution.</p>\n<p>It also tests if you can explain your design decisions clearly to another team member,  helps to find any potential gaps in your thinking, and clarifies your understanding of the problem that you’re trying to solve.</p>\n<p>In short, doing this will help improve your skill in articulating your ideas, which is a crucial skillset for any designer.</p>\n<h3 id=\"set-goals\">Set goals</h3>\n<p>Commit to a goal, and share it with your team.</p>\n<h3 id=\"work-on-a-side-project-that-youre-passionate-about\">Work on a side project that you’re passionate about</h3>\n<h3 id=\"teach-others\">Teach others</h3>\n",
+            "author": {
+                "name": "Calvin"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-11-19T23:49:10+08:00",
+            "date_modified": "2022-11-19T23:49:10+08:00"
+        },
+        {
+            "id": "https://calvintan.github.io/the-first-commit/",
+            "url": "https://calvintan.github.io/the-first-commit/",
             "title": "The &quot;first commit&quot;",
             "summary": "Like all my coding projects, the first thing I would do is: start a Github repository, add all the base files and push the “first commit” to Github. This is my first commit to this blog, and it marks my “commit”ment to make writing a&hellip;",
             "content_html": "<p>Like all my coding projects, the first thing I would do is: start a Github repository, add all the base files and push the “first commit” to Github.</p>\n<p>This is my first commit to this blog, and it marks my “commit”ment to make writing a habit. I’m not exactly sure what this blog will contain yet, but I’ll start penning down some thoughts and see how it grows from there.</p>\n<p>If you’re passing by, feel free to stop and say “hello”. Hopefully this space will be populated with more interesting articles soon! Till next time 👋</p>\n",
