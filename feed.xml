@@ -1,49 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Calvin&#x27;s Blog</title>
+    <title>Calvin is typing</title>
     <link href="https://calvintan.github.io/feed.xml" rel="self" />
     <link href="https://calvintan.github.io" />
-    <updated>2022-11-19T23:49:10+08:00</updated>
+    <updated>2022-11-20T14:11:39+08:00</updated>
     <author>
         <name>Calvin</name>
     </author>
     <id>https://calvintan.github.io</id>
 
     <entry>
-        <title>5 ways to upskill as a designer</title>
+        <title>5 tips on improving as a designer</title>
         <author>
             <name>Calvin</name>
         </author>
         <link href="https://calvintan.github.io/5-ways-to-upskill-as-a-designer/"/>
         <id>https://calvintan.github.io/5-ways-to-upskill-as-a-designer/</id>
 
-        <updated>2022-11-19T23:49:10+08:00</updated>
+        <updated>2022-11-20T14:11:39+08:00</updated>
             <summary>
                 <![CDATA[
-                    I recently received a question from my mentee on “how to get into a habit of upskilling as a designer”,&hellip;
+                    I recently received a question from my mentee on “how to get better as a designer” and “key skills to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>I recently received a question from my mentee on “how to get into a habit of upskilling as a designer”, and I shared 5 ideas on how to build a learning habit.</p>
+                <p>I recently received a question from my mentee on “how to get better as a designer” and “key skills to work on”. Here are excerpts of the 5 tips that I shared.</p>
 <h3 id="observe-what-others-are-doing-better-than-you">Observe what others are doing better than you</h3>
-<p>I’m sure that when you work in a team, you may have been impressed by something your teammate does. “He presented his ideas really well!” or “How does she design all these screens so quickly?”</p>
-<p>That gives you a hint as to the skill that you may want to improve on. For example, it could be about how to <strong>better articulate your ideas and design decisions</strong>, or to <strong>improve on your design workflow</strong>.</p>
+<p>I’m sure that in your team, there were moments that you were impressed by something your teammate does. “He presented his ideas really well!” or “How does she design all these screens so quickly?”</p>
+<p>This hints on the skill that you may want to work on. For example, it could be about how to <strong>better articulate your ideas and design decisions</strong>, or to <strong>improve on your design workflow</strong>.</p>
 <p>Next, you can either:</p>
 <ol>
-<li>Have a chat with them, ask them for tips or advice</li>
+<li>Have a chat with them, and ask them for tips or advice</li>
 <li>Get together with your team or manager to organise learning sessions</li>
 <li>Do your own research, look up books or tutorials on the subject matter</li>
 </ol>
 <h3 id="ask-for-feedback-early">Ask for feedback early</h3>
-<p>Share drafts of your design work early, even if it’s rough.</p>
-<p>You might be thinking: “But it looks terrible! Won’t this reflect poorly on my design ability?” I feel that sharing your work early has the opposite effect. It makes you seem proactive, and that you are doing your due dilligence in finding the right solution.</p>
+<p>Share drafts of your design work early, even if it’s rough. This will help improve your ability to articulate your ideas, which is crucial for any designer.</p>
+<p>You might be thinking: “But it looks terrible! Won’t this reflect poorly on my design ability?” I feel that sharing your work early has the opposite effect. It makes you seem proactive, and it’s what you should be doing in order to find the right solution.</p>
 <p>It also tests if you can explain your design decisions clearly to another team member,  helps to find any potential gaps in your thinking, and clarifies your understanding of the problem that you’re trying to solve.</p>
-<p>In short, doing this will help improve your skill in articulating your ideas, which is a crucial skillset for any designer.</p>
 <h3 id="set-goals">Set goals</h3>
-<p>Commit to a goal, and share it with your team.</p>
+<p>In my current team, each of us are encouraged to set a monthly goal to work on. We will also have to demonstrate proof that we are actually keeping to it (or face a “penalty” – like buying everyone coffee 😛)</p>
+<p>I’m sure this feels like you’re being forced to do it. But it’s not necessarily a bad thing as this approach does help you to build a habit and holds you to that commitment.</p>
+<p>Consider commiting to a manageable goal and sharing it with your team. This could be something like: “Read one design book per month and share what your learnt”.</p>
 <h3 id="work-on-a-side-project-that-youre-passionate-about">Work on a side project that you’re passionate about</h3>
+<p>Ever had a new year’s resolution where you told yourself “I’ll master (insert the supposed thing) this year!” but it never materialised? The problem may stem from the fact that you haven’t broken it down into enough actionable steps.</p>
+<p>First, it should be something that will motivate you to work on it everyday. To the extent that it is top-of-mind in your daily todos, otherwise you might stop doing it after awhile. On top of that, it should be <em>actionable enough</em>, like “read one chapter of a book per week” and not “finish reading encyclopedia in 1 hour”.</p>
+<p>It may also help to pick an area that is relevant to your work, so you get to put it into use immediately. For example, I could start a project to pick up 3D, but it is a skill that I can’t apply regularly at work. That would cause me to lose motivation and gradually lose interest.</p>
 <h3 id="teach-others">Teach others</h3>
+<p>I believe that in order to teach a topic, you first need to have a solid understanding of that topic. Teaching is not something where one can jump in and simply <em>wing it</em>.</p>
+<p>If you can explain a particular topic simply, clearly and well to others, this means that you have a good grasp of it. </p>
+<p>For example, pretend to be teaching any design topic to your team. Are you able to explain it well enough? If the answer is “no” then it’s a signal to do some light research, read books or articles on the topic and try again. Doing this will solidify your understanding of the topic.</p>
+<h3 id="closing-thoughts">Closing thoughts</h3>
+<p>Up to this point in my career, I never had a design mentor as I was mostly working as a “team of one” designer. This always made me anxious about not keeping up to date or if there were skills that I should be picking up (FOMO 🤷).</p>
+<p>What I’ve been practicing is to “be the mentor you wish you had”, to serve as my motivation to stay ahead of the curve and do my best work everyday.</p>
 
             ]]>
         </content>
