@@ -3,7 +3,7 @@
     <title>Calvin is typing</title>
     <link href="https://calvintan.github.io/feed.xml" rel="self" />
     <link href="https://calvintan.github.io" />
-    <updated>2022-11-20T14:34:55+08:00</updated>
+    <updated>2022-11-20T15:18:40+08:00</updated>
     <author>
         <name>Calvin</name>
     </author>
@@ -14,17 +14,19 @@
         <author>
             <name>Calvin</name>
         </author>
-        <link href="https://calvintan.github.io/5-ways-to-upskill-as-a-designer/"/>
-        <id>https://calvintan.github.io/5-ways-to-upskill-as-a-designer/</id>
+        <link href="https://calvintan.github.io/5-tips-on-improving-as-a-designer/"/>
+        <id>https://calvintan.github.io/5-tips-on-improving-as-a-designer/</id>
 
-        <updated>2022-11-20T14:34:55+08:00</updated>
+        <updated>2022-11-20T15:13:48+08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://calvintan.github.io/media/posts/2/personal-growth.png" alt="Personal Growth" />
                     I recently received a question from my mentee on “how to get better as a designer” and “key skills to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://calvintan.github.io/media/posts/2/personal-growth.png" alt="Personal Growth" />
                 <p>I recently received a question from my mentee on “how to get better as a designer” and “key skills to work on”. Here are excerpts of the 5 tips that I shared.</p>
 <h3 id="observe-what-others-are-doing-better-than-you">Observe what others are doing better than you</h3>
 <p>I’m sure that in your team, there were moments that you were impressed by something your teammate does. “He presented his ideas really well!” or “How does she design all these screens so quickly?”</p>
@@ -59,21 +61,23 @@
         </content>
     </entry>
     <entry>
-        <title>The &quot;first commit&quot;</title>
+        <title>&quot;First commit&quot;</title>
         <author>
             <name>Calvin</name>
         </author>
-        <link href="https://calvintan.github.io/the-first-commit/"/>
-        <id>https://calvintan.github.io/the-first-commit/</id>
+        <link href="https://calvintan.github.io/first-commit/"/>
+        <id>https://calvintan.github.io/first-commit/</id>
 
-        <updated>2022-03-26T14:01:25+08:00</updated>
+        <updated>2022-11-20T15:18:40+08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://calvintan.github.io/media/posts/1/abstract-plant-growth.png" alt="Growth" />
                     Like all my coding projects, the first thing I would do is: start a Github repository, add all the base&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://calvintan.github.io/media/posts/1/abstract-plant-growth.png" alt="Growth" />
                 <p>Like all my coding projects, the first thing I would do is: start a Github repository, add all the base files and push the “first commit” to Github.</p>
 <p>This is my first commit to this blog, and it marks my “commit”ment to make writing a habit. I’m not exactly sure what this blog will contain yet, but I’ll start penning down some thoughts and see how it grows from there.</p>
 <p>If you’re passing by, feel free to stop and say “hello”. Hopefully this space will be populated with more interesting articles soon! Till next time 👋</p>
