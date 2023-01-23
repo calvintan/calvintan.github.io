@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Calvin is typing",
+    "title": "Calvin&#x27;s Blog",
     "description": "",
     "home_page_url": "https://calvintan.github.io",
     "feed_url": "https://calvintan.github.io/feed.json",
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2022-11-19T23:49:10+08:00",
-            "date_modified": "2022-11-20T15:13:48+08:00"
+            "date_modified": "2022-11-20T15:21:08+08:00"
         },
         {
             "id": "https://calvintan.github.io/first-commit/",
@@ -37,7 +37,7 @@
             "tags": [
             ],
             "date_published": "2022-03-26T14:01:25+08:00",
-            "date_modified": "2022-11-20T15:18:40+08:00"
+            "date_modified": "2022-11-20T15:21:03+08:00"
         }
     ]
 }
