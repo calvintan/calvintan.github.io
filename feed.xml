@@ -3,7 +3,7 @@
     <title>Calvin&#x27;s Blog</title>
     <link href="https://calvintan.github.io/feed.xml" rel="self" />
     <link href="https://calvintan.github.io" />
-    <updated>2023-02-03T18:27:46+08:00</updated>
+    <updated>2023-02-03T18:30:21+08:00</updated>
     <author>
         <name>Calvin</name>
     </author>
@@ -17,14 +17,16 @@
         <link href="https://calvintan.github.io/design-tokens/"/>
         <id>https://calvintan.github.io/design-tokens/</id>
 
-        <updated>2023-02-03T18:27:46+08:00</updated>
+        <updated>2023-02-03T18:30:21+08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://calvintan.github.io/media/posts/6/blog-tokens-cover.jpg" alt="" />
                     When I first heard about Design Tokens, I initially dismissed it as I thought it was “yet another design tool”&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://calvintan.github.io/media/posts/6/blog-tokens-cover.jpg" alt="" />
                 <p>When I first heard about Design Tokens, I initially dismissed it as I thought it was “yet another design tool” that I felt reluctant to dig into it.<br><br>However after I finally decided to give it a go and start to pick it up, I immediately regretted not learning about it sooner.<br><br>I believe that design tokens play an important role in bridging the design-to-code gap. It can help to improve the collaboration between designers and developers, and keep the design of websites or apps aligned with the specifications of a design system.<br><br>I'll go over what a design token is and the benefits of adopting design tokens in your workflow.</p>
 <h2>What is a design token</h2>
 <p>I'll explain using a visual example. Imagine that you have a simple button component in your design system.</p>
