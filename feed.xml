@@ -3,7 +3,7 @@
     <title>Calvin&#x27;s Blog</title>
     <link href="https://calvintan.github.io/feed.xml" rel="self" />
     <link href="https://calvintan.github.io" />
-    <updated>2023-02-03T18:35:16+08:00</updated>
+    <updated>2023-02-03T18:39:45+08:00</updated>
     <author>
         <name>Calvin</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://calvintan.github.io/design-tokens/"/>
         <id>https://calvintan.github.io/design-tokens/</id>
 
-        <updated>2023-02-03T18:35:16+08:00</updated>
+        <updated>2023-02-03T18:39:45+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://calvintan.github.io/media/posts/6/blog-tokens-cover.jpg" alt="" />
@@ -27,9 +27,9 @@
         <content type="html">
             <![CDATA[
                     <img src="https://calvintan.github.io/media/posts/6/blog-tokens-cover.jpg" alt="" />
-                <p>When I first heard about Design Tokens, I initially dismissed it as I thought it was “yet another design tool” that I felt reluctant to dig into it.<br><br>However after I finally decided to give it a go and start to pick it up, I immediately regretted not learning about it sooner.<br><br>I believe that design tokens play an important role in bridging the design-to-code gap. It can help to improve the collaboration between designers and developers, and keep the design of websites or apps aligned with the specifications of a design system.<br><br>I'll go over what a design token is and the benefits of adopting design tokens in your workflow.</p>
+                <p>When I first heard about Design Tokens, I initially dismissed it as I thought it was “yet another design tool” that I felt reluctant to dig into it.<br><br>However after I finally decided to give it a go and start to pick it up, I immediately regretted not learning about it sooner.<br><br>I believe that design tokens play an important role in bridging the design-to-code gap. It can help to improve the collaboration between designers and developers, and keep the design of websites or apps aligned with the specifications of a design system.<br><br>I'll go over what a design token is and the benefits of adopting design tokens.</p>
 <h2>What is a design token</h2>
-<p>I'll explain using a visual example. Imagine that you have a simple button component in your design system.</p>
+<p>I'll explain with a visual example. Imagine that you have a simple button component in your design system.</p>
 <figure class="post__image"><img loading="lazy"  src="https://calvintan.github.io/media/posts/6/blog-tokens-1.jpg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://calvintan.github.io/media/posts/6/responsive/blog-tokens-1-xs.jpg 384w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-1-sm.jpg 600w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-1-md.jpg 768w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-1-lg.jpg 1200w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-1-xl.jpg 1600w"  alt="" width="1280" height="720"></figure>
 <p>(Without peeking ahead!) Now try to visualise this button broken down into the various atoms – as in Atomic Design. Try to make a guess of all the design properties that make up this button. Scroll ahead once you're ready!</p>
 <p>...</p>
