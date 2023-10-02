@@ -1,14 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Calvin&#x27;s Blog</title>
     <link href="https://calvintan.github.io/feed.xml" rel="self" />
     <link href="https://calvintan.github.io" />
-    <updated>2023-02-04T01:53:42+08:00</updated>
+    <updated>2023-10-02T22:35:14+08:00</updated>
     <author>
         <name>Calvin</name>
     </author>
     <id>https://calvintan.github.io</id>
 
+    <entry>
+        <title>Design Faster: 10 Figma Tips for Designers</title>
+        <author>
+            <name>Calvin</name>
+        </author>
+        <link href="https://calvintan.github.io/design-faster-with-figma-16-tips-for-designers/"/>
+        <id>https://calvintan.github.io/design-faster-with-figma-16-tips-for-designers/</id>
+        <media:content url="https://calvintan.github.io/media/posts/7/cover-4.jpg" medium="image" />
+            <category term="figma"/>
+
+        <updated>2023-10-02T22:35:14+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://calvintan.github.io/media/posts/7/cover-4.jpg" alt="Article cover" />
+                    Have you ever had those moments in Figma where you feel like you're moving in slow motion, clicking through layers&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://calvintan.github.io/media/posts/7/cover-4.jpg" class="type:primaryImage" alt="Article cover" /></p>
+                <p>Have you ever had those moments in Figma where you feel like you're moving in slow motion, clicking through layers and components, knowing deep down that you can work faster and smarter? We've all experienced those pangs of frustration, realizing there's room for improvement.</p>
+<p>In this concise guide, I've curated 10 practical tips to elevate your efficiency in Figma. Whether you're just starting your journey or aiming to sharpen your skills, these insights will smooth out your design process.</p>
+<h2>1. Select an element with one click</h2>
+<p>Here is a typical scenario. To adjust a single object that is nested deep inside of a component, you end up clicking endlessly through each layer to select this element.</p>
+<p>Do this instead: Click on the object while holding <code>⌘cmd</code>, and you'll be able to select the object with one click! This is also known as a "deep select".</p>
+<figure class="post__image"><img loading="lazy"  src="https://calvintan.github.io/media/posts/7/tip-1.gif" alt="" width="800" height="450"></figure>
+<h2>2. Select several layers</h2>
+<p>Do you need to selectively edit several objects in a component? Hold <code>⌘cmd + ⇧shift</code> and click on each object. Mis-clicked an object? Simply click on it again to deselect it.</p>
+<h2><figure class="post__image"><img loading="lazy"  src="https://calvintan.github.io/media/posts/7/tip-2.gif" alt="" width="800" height="450"></figure></h2>
+<h2>3. Select children or parent layers</h2>
+<p>When objects are nested inside a frame or group, the frame layer is called the "parent" and the layers inside are called the "children". We can click on the parent layer and press <code>↩return</code> to select all of the children layers.</p>
+<p>Pressing <code>⇧shift + ↩return</code> (or the <code>\</code> key) does the opposite and selects the parent layer. I use these shortcuts frequently when modifying the contents of a table. First I will click on the desired table column, press <code>↩return</code> to select all the cells of that column, and modify all of them at once!</p>
+<figure class="post__image"><img loading="lazy"  src="https://calvintan.github.io/media/posts/7/tip-3.gif" alt="" width="800" height="480"></figure>
+<h2>4. Select sibling layers</h2>
+<p>Children objects are called "siblings" of each other, and we can select sibling layers too. Press <code>tab</code> to select the first sibling layer, and press <code>tab</code> again to select the next sibling layer. You can also press <code>⇧shift + tab</code> to select the previous sibling layer.</p>
+<p>You can now navigate up and down the Layers panel with just your keyboard!</p>
+<figure class="post__image"><img loading="lazy"  src="https://calvintan.github.io/media/posts/7/tip-4.gif" alt="" width="800" height="480"></figure>
+<h2>5. Collapse all layers</h2>
+<p>Your Layers panel will start to get untidy as you are busy editing objects, leaving a trail of "unfolded" layers. Pressing <code>⌥option + l</code> will collapse the layers back into a neat stack.</p>
+<p>Using this shortcut regularly will ensure your Layers panel is kept tidy at all times, making it easy to sift through to find any layer.</p>
+<figure class="post__image"><img loading="lazy"  src="https://calvintan.github.io/media/posts/7/tip-5.gif" alt="" width="480" height="540"></figure>
+<h2>6. Duplicating objects</h2>
+<p>There are several ways to duplicate an object, choose the method that best suits you!</p>
+<ol style="list-style-type: lower-alpha;">
+<li>Copy and paste the object in place by using <code>⌘cmd + c</code> and <code>⌘cmd + v</code>. Alternatively <code>⌘cmd + d</code> does the same thing by pressing just 1 shortcut.</li>
+<li>Click and drag the object while holding <code>option</code>. You can also drag while holding both <code>option + shift</code> create a duplicate along the horizontal or vertical axis.</li>
+</ol>
+<h2><figure class="post__image"><img loading="lazy"  src="https://calvintan.github.io/media/posts/7/tip-6.gif" alt="" width="800" height="450"></figure></h2>
+<h2>7. Add multiple images</h2>
+<p>Need to add multiple pictures into your design? <code>⌘cmd + ⇧shift + k</code> is your go-to shortcut to add images in bulk. Select your image files after pressing the shortcut, then click to place them on the canvas or on an object.</p>
+<figure class="post__image"><img loading="lazy"  src="https://calvintan.github.io/media/posts/7/tip-7.gif" alt="" width="800" height="450"></figure>
+<h2>8. Crop an image</h2>
+<p>There is no need to crop an image from the Design panel. Hold <code>⌘cmd</code> and drag on the edge of that image to crop an image quickly. This not only works well with images, but also with frames! Just remember to tick the <strong>clip content</strong> option in your frame.</p>
+<figure class="post__image"><img loading="lazy"  src="https://calvintan.github.io/media/posts/7/tip-8.gif" alt="" width="800" height="450"></figure>
+<h2>9. Copy and paste properties</h2>
+<p>You might want to reuse styles that you've applied to an object or layer. Copy styles by pressing <code>⌘cmd + option + c</code>. Then select the other objects, and press <code>⌘cmd + option + v</code> to paste.</p>
+<figure class="post__image"><img loading="lazy"  src="https://calvintan.github.io/media/posts/7/tip-9.gif" alt="" width="800" height="450"></figure>
+<h2>10. Copy and paste properties from the Design panel</h2>
+<p>A bonus tip: you can copy a style by clicking on the left edge of a fill, an effect, or even a prototype interaction! Once it is selected (highlighted in blue), you can copy and paste onto any layer to apply the same style.</p>
+<figure class="post__image"><img loading="lazy"  src="https://calvintan.github.io/media/posts/7/tip-10.gif" alt="" width="480" height="540"></figure>
+<hr>
+<p>Thank you for exploring these first 10 valuable Figma tips in this article. I hope you've found them helpful in enhancing your design workflow.</p>
+<p>Stay tuned for part 2 of this series, where you'll discover another set of 10 essential tips to take your Figma skills to the next level. Keep an eye on upcoming articles as more insights and tools to empower your design journey are on the way.</p>
+<p>Also, please leave a comment with your suggestions for future article topics or any questions you might have. Happy designing!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Design Tokens: Bridging the design-to-code gap</title>
         <author>
@@ -16,6 +83,7 @@
         </author>
         <link href="https://calvintan.github.io/design-tokens/"/>
         <id>https://calvintan.github.io/design-tokens/</id>
+        <media:content url="https://calvintan.github.io/media/posts/6/blog-tokens-cover.jpg" medium="image" />
 
         <updated>2023-02-04T01:53:42+08:00</updated>
             <summary>
@@ -26,30 +94,30 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://calvintan.github.io/media/posts/6/blog-tokens-cover.jpg" alt="" />
+                    <p><img src="https://calvintan.github.io/media/posts/6/blog-tokens-cover.jpg" class="type:primaryImage" alt="" /></p>
                 <p>When I first heard about Design Tokens, I was slow to look into it. However after I finally got started picking it up, I immediately regretted not learning about it sooner.<br><br>I believe that design tokens play an important role in bridging the design-to-code gap. It can help to improve the collaboration between designers and developers, and keep the design of websites or apps aligned with the specifications of a design system.<br><br>I'll go over what a design token is and the benefits of adopting design tokens.</p>
 <h2>What is a design token</h2>
 <p>Imagine that you have this button component in your design system.</p>
-<figure class="post__image"><img loading="lazy"  src="https://calvintan.github.io/media/posts/6/blog-tokens-1.jpg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://calvintan.github.io/media/posts/6/responsive/blog-tokens-1-xs.jpg 384w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-1-sm.jpg 600w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-1-md.jpg 768w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-1-lg.jpg 1200w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-1-xl.jpg 1600w"  alt="" width="1280" height="720"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://calvintan.github.io/media/posts/6/blog-tokens-1.jpg" alt="" width="1280" height="720" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://calvintan.github.io/media/posts/6/responsive/blog-tokens-1-xs.jpg 384w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-1-sm.jpg 600w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-1-md.jpg 768w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-1-lg.jpg 1200w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-1-xl.jpg 1600w"></figure>
 <p>(Without peeking ahead)</p>
 <p>Try to visualise this button broken down into the various atoms – as in Atomic Design. Try to make a guess of all the properties that make up this button. Scroll down once you're ready!</p>
 <p>...</p>
 <p>...</p>
 <p>...</p>
-<figure class="post__image"><img loading="lazy"  src="https://calvintan.github.io/media/posts/6/blog-tokens-2.jpg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://calvintan.github.io/media/posts/6/responsive/blog-tokens-2-xs.jpg 384w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-2-sm.jpg 600w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-2-md.jpg 768w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-2-lg.jpg 1200w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-2-xl.jpg 1600w"  alt="" width="1280" height="720"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://calvintan.github.io/media/posts/6/blog-tokens-2.jpg" alt="" width="1280" height="720" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://calvintan.github.io/media/posts/6/responsive/blog-tokens-2-xs.jpg 384w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-2-sm.jpg 600w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-2-md.jpg 768w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-2-lg.jpg 1200w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-2-xl.jpg 1600w"></figure>
 <p>So, did you guess correctly?</p>
 <p>These properties and values that make up this button are the <strong>design decisions</strong>.</p>
 <p>Of course, the button will not be the only component in your design system. There will be design decisions made for the other components in your design system as well.</p>
-<figure class="post__image"><img loading="lazy"  src="https://calvintan.github.io/media/posts/6/blog-tokens-3.jpg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://calvintan.github.io/media/posts/6/responsive/blog-tokens-3-xs.jpg 384w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-3-sm.jpg 600w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-3-md.jpg 768w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-3-lg.jpg 1200w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-3-xl.jpg 1600w"  alt="" width="1280" height="720"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://calvintan.github.io/media/posts/6/blog-tokens-3.jpg" alt="" width="1280" height="720" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://calvintan.github.io/media/posts/6/responsive/blog-tokens-3-xs.jpg 384w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-3-sm.jpg 600w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-3-md.jpg 768w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-3-lg.jpg 1200w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-3-xl.jpg 1600w"></figure>
 <p>Here is a list of possible properties that you might use in your design system. From colors, fonts, spacing and even the animation properties.</p>
 <p>You can store these properties and values in the form of a <strong>design token</strong>. A token is basically a key-value pair. This is the same button from before, and beside it I have expressed it's properties and values as JSON.</p>
-<figure class="post__image"><img loading="lazy"  src="https://calvintan.github.io/media/posts/6/blog-tokens-4.jpg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://calvintan.github.io/media/posts/6/responsive/blog-tokens-4-xs.jpg 384w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-4-sm.jpg 600w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-4-md.jpg 768w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-4-lg.jpg 1200w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-4-xl.jpg 1600w"  alt="" width="1280" height="720"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://calvintan.github.io/media/posts/6/blog-tokens-4.jpg" alt="" width="1280" height="720" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://calvintan.github.io/media/posts/6/responsive/blog-tokens-4-xs.jpg 384w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-4-sm.jpg 600w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-4-md.jpg 768w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-4-lg.jpg 1200w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-4-xl.jpg 1600w"></figure>
 <p>I hope that my visual example has helped you make sense of what a design token is. Let's also see how others have described a design token:</p>
-<figure class="post__image"><img loading="lazy"  src="https://calvintan.github.io/media/posts/6/blog-tokens-quote.jpg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://calvintan.github.io/media/posts/6/responsive/blog-tokens-quote-xs.jpg 384w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-quote-sm.jpg 600w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-quote-md.jpg 768w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-quote-lg.jpg 1200w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-quote-xl.jpg 1600w"  alt="" width="1280" height="720"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://calvintan.github.io/media/posts/6/blog-tokens-5.jpg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://calvintan.github.io/media/posts/6/responsive/blog-tokens-5-xs.jpg 384w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-5-sm.jpg 600w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-5-md.jpg 768w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-5-lg.jpg 1200w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-5-xl.jpg 1600w"  alt="" width="1280" height="720"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://calvintan.github.io/media/posts/6/blog-tokens-quote.jpg" alt="" width="1280" height="720" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://calvintan.github.io/media/posts/6/responsive/blog-tokens-quote-xs.jpg 384w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-quote-sm.jpg 600w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-quote-md.jpg 768w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-quote-lg.jpg 1200w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-quote-xl.jpg 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://calvintan.github.io/media/posts/6/blog-tokens-5.jpg" alt="" width="1280" height="720" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://calvintan.github.io/media/posts/6/responsive/blog-tokens-5-xs.jpg 384w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-5-sm.jpg 600w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-5-md.jpg 768w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-5-lg.jpg 1200w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-5-xl.jpg 1600w"></figure>
 <h2>Why should we use design tokens</h2>
 <p>To answer this, let's take this example of the design handoff process.</p>
-<figure class="post__image"><img loading="lazy"  src="https://calvintan.github.io/media/posts/6/blog-tokens-6.jpg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://calvintan.github.io/media/posts/6/responsive/blog-tokens-6-xs.jpg 384w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-6-sm.jpg 600w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-6-md.jpg 768w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-6-lg.jpg 1200w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-6-xl.jpg 1600w"  alt="" width="1280" height="720"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://calvintan.github.io/media/posts/6/blog-tokens-6.jpg" alt="" width="1280" height="720" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://calvintan.github.io/media/posts/6/responsive/blog-tokens-6-xs.jpg 384w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-6-sm.jpg 600w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-6-md.jpg 768w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-6-lg.jpg 1200w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-6-xl.jpg 1600w"></figure>
 <p>In this scenario, assume that the design – be it a web application or app – is already live. The client wants to make changes, perhaps because of a rebrand, wants to make changes to the colours and fonts etc.</p>
 <ol>
 <li>The designer makes the desired changes to the UI in the Figma file.</li>
@@ -70,7 +138,7 @@
 <p>Design tokens can be combined with a version control tool, such as Github, in order to provide a source of truth. Every change can be tracked, and a description of the change can be provided too.</p>
 <h2>A design tokens pipeline</h2>
 <p>This flow diagram demonstrates what a design tokens approach might look like:</p>
-<figure class="post__image"><img loading="lazy"  src="https://calvintan.github.io/media/posts/6/blog-tokens-7.jpg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://calvintan.github.io/media/posts/6/responsive/blog-tokens-7-xs.jpg 384w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-7-sm.jpg 600w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-7-md.jpg 768w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-7-lg.jpg 1200w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-7-xl.jpg 1600w"  alt="" width="1280" height="720"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://calvintan.github.io/media/posts/6/blog-tokens-7.jpg" alt="" width="1280" height="720" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://calvintan.github.io/media/posts/6/responsive/blog-tokens-7-xs.jpg 384w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-7-sm.jpg 600w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-7-md.jpg 768w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-7-lg.jpg 1200w ,https://calvintan.github.io/media/posts/6/responsive/blog-tokens-7-xl.jpg 1600w"></figure>
 <ol>
 <li>Following the example scenario, the designer has updated the colours and fonts. There are plugins (e.g. <a href="https://tokens.studio/" target="_blank" rel="nofollow noopener noreferrer">Tokens Studio</a>) available to help create design tokens and push them to the project repository.<br><br></li>
 <li>Once pushed to the project repository, the developer can pull the token file and start to transform them to the correct format needed.<br><br></li>
@@ -91,6 +159,7 @@
         </author>
         <link href="https://calvintan.github.io/5-tips-on-improving-as-a-designer/"/>
         <id>https://calvintan.github.io/5-tips-on-improving-as-a-designer/</id>
+        <media:content url="https://calvintan.github.io/media/posts/2/personal-growth.png" medium="image" />
 
         <updated>2022-11-20T15:21:08+08:00</updated>
             <summary>
@@ -101,7 +170,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://calvintan.github.io/media/posts/2/personal-growth.png" alt="Personal Growth" />
+                    <p><img src="https://calvintan.github.io/media/posts/2/personal-growth.png" class="type:primaryImage" alt="Personal Growth" /></p>
                 <p>I recently received a question from my mentee on “how to get better as a designer” and “key skills to work on”. Here are excerpts of the 5 tips that I shared.</p>
 <h3 id="observe-what-others-are-doing-better-than-you">Observe what others are doing better than you</h3>
 <p>I’m sure that in your team, there were moments that you were impressed by something your teammate does. “He presented his ideas really well!” or “How does she design all these screens so quickly?”</p>
@@ -142,6 +211,7 @@
         </author>
         <link href="https://calvintan.github.io/first-commit/"/>
         <id>https://calvintan.github.io/first-commit/</id>
+        <media:content url="https://calvintan.github.io/media/posts/1/abstract-plant-growth.png" medium="image" />
 
         <updated>2022-11-20T15:21:03+08:00</updated>
             <summary>
@@ -152,7 +222,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://calvintan.github.io/media/posts/1/abstract-plant-growth.png" alt="Growth" />
+                    <p><img src="https://calvintan.github.io/media/posts/1/abstract-plant-growth.png" class="type:primaryImage" alt="Growth" /></p>
                 <p>Like all my coding projects, the first thing I would do is: start a Github repository, add all the base files and push the “first commit” to Github.</p>
 <p>This is my first commit to this blog, and it marks my “commit”ment to make writing a habit. I’m not exactly sure what this blog will contain yet, but I’ll start penning down some thoughts and see how it grows from there.</p>
 <p>If you’re passing by, feel free to stop and say “hello”. Hopefully this space will be populated with more interesting articles soon! Till next time 👋</p>
