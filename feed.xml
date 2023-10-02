@@ -3,7 +3,7 @@
     <title>Calvin&#x27;s Blog</title>
     <link href="https://calvintan.github.io/feed.xml" rel="self" />
     <link href="https://calvintan.github.io" />
-    <updated>2023-10-03T02:35:05+08:00</updated>
+    <updated>2023-10-03T02:48:15+08:00</updated>
     <author>
         <name>Calvin</name>
     </author>
@@ -85,18 +85,17 @@
         <id>https://calvintan.github.io/design-tokens/</id>
         <media:content url="https://calvintan.github.io/media/posts/6/blog-tokens-cover.jpg" medium="image" />
 
-        <updated>2023-10-03T02:35:05+08:00</updated>
+        <updated>2023-10-03T02:48:15+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://calvintan.github.io/media/posts/6/blog-tokens-cover.jpg" alt="" />
-                    Updated: I presented this topic at a UIUX event in Shanghai. You can watch the recap below, from 00:00 to&hellip;
+                    Updated: I presented this topic at a UIUX event in Shanghai. You can watch the recap via this link, from&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://calvintan.github.io/media/posts/6/blog-tokens-cover.jpg" class="type:primaryImage" alt="" /></p>
-                <p><strong>Updated:</strong> I presented this topic at a UIUX event in Shanghai. You can watch the recap below, from 00:00 to 28:00.</p>
-<div style="position: relative; padding: 30% 45%;"><div class="post__iframe"><iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=991654739&amp;bvid=BV1ix4y1L7NQ&amp;cid=1001816943&amp;p=1&amp;autoplay=false" border="0" frameborder="no" framespacing="0" allowfullscreen="allowfullscreen" scrolling="no"></iframe></div></div>
+                <p><strong>Updated:</strong> I presented this topic at a UIUX event in Shanghai. You can watch the recap via this link, from 00:00 to 28:00 - <a href="https://www.bilibili.com/video/BV1ix4y1L7NQ/">https://www.bilibili.com/video/BV1ix4y1L7NQ/</a></p>
 <hr>
 <p>When I first heard about Design Tokens, I was slow to look into it. However after I finally got started picking it up, I immediately regretted not learning about it sooner.<br><br>I believe that design tokens play an important role in bridging the design-to-code gap. It can help to improve the collaboration between designers and developers, and keep the design of websites or apps aligned with the specifications of a design system.<br><br>I'll go over what a design token is and the benefits of adopting design tokens.</p>
 <h2>What is a design token</h2>
